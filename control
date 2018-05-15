@@ -1,0 +1,9 @@
+Package: com.oskarw.centrifyemoji
+Name: CentrifyEmoji
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Centers the Emoji button on the keyboard
+Maintainer: Oskar Wirga <oskar@wirga.com>
+Author: Oskar Wirga 
+Section: Tweaks
